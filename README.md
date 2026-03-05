@@ -61,7 +61,7 @@ Add this to your config (use full paths):
   "mcpServers": {
     "nse-bse": {
       "command": "C:\\Python312\\python.exe",
-      "args": ["C:\\full\\path\\to\\nse-bse-mcp\\src\\server.py"]
+      "args": ["C:\\full\\path\\to\\nse-bse-mcp\\server.py"]
     }
   }
 }
@@ -73,7 +73,7 @@ Add this to your config (use full paths):
   "mcpServers": {
     "nse-bse": {
       "command": "python3",
-      "args": ["/full/path/to/nse-bse-mcp/src/server.py"]
+      "args": ["/full/path/to/nse-bse-mcp/server.py"]
     }
   }
 }
