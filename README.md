@@ -40,7 +40,7 @@ Plug this into Claude Desktop and ask questions like:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/nse-bse-mcp.git
+git clone https://github.com/vanshikaaa01/nse-bse-mcp.git
 cd nse-bse-mcp
 
 # 2. Install dependencies
